@@ -1,5 +1,5 @@
 package com.example.demo.repo;
 
-public class BorrowRecord {
+public class BorrowRecordRepository {
     
 }
